@@ -1,0 +1,3 @@
+git status
+git logs
+git commit -m "test"
